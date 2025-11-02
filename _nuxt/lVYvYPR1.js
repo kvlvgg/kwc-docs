@@ -1,0 +1,1 @@
+import{_ as o,U as t}from"./B-bnZoLM.js";import{_ as r,y as c,C as s,F as _,z as a}from"#entry";const l={};function u(e,p){const n=o;return a(),c("div",null,[s(n,{level:("UI"in e?e.UI:_(t)).KIT.H.LEVEL[3],text:"kwc-input-group"},null,8,["level"])])}const m=r(l,[["render",u]]);export{m as default};

@@ -1,0 +1,1 @@
+import{_ as t,U as o}from"./B-bnZoLM.js";import{_ as c,y as r,C as a,F as s,z as _}from"#entry";const l={};function i(e,f){const n=t;return _(),r("div",null,[a(n,{level:("UI"in e?e.UI:s(o)).KIT.H.LEVEL[3],text:"kwc-date-picker"},null,8,["level"])])}const u=c(l,[["render",i]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as o,U as t}from"./B-bnZoLM.js";import{_ as c,y as r,C as s,F as _,z as a}from"#entry";const p={};function l(e,u){const n=o;return a(),r("div",null,[s(n,{level:("UI"in e?e.UI:_(t)).KIT.H.LEVEL[3],text:"kwc-popup"},null,8,["level"])])}const m=c(p,[["render",l]]);export{m as default};

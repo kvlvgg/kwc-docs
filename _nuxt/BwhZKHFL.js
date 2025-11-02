@@ -1,0 +1,1 @@
+import{_ as t,U as o}from"./B-bnZoLM.js";import{_ as c,y as r,C as s,F as _,z as a}from"#entry";const l={};function i(e,m){const n=t;return a(),r("div",null,[s(n,{level:("UI"in e?e.UI:_(o)).KIT.H.LEVEL[3],text:"kwc-time"},null,8,["level"])])}const p=c(l,[["render",i]]);export{p as default};
